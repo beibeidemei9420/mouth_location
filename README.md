@@ -1,6 +1,7 @@
 # mouth_location
 # Getting Started
-
+---
+> This code is from the "High-Accuracy Real-Time Mouth Recognition and 3D Positioning for Autonomous Feeding Robots Using YOLO and Binocular Vision" paper and is currently being submitted to The Visual computer journal
 ### Installation
 
 We test our code on a 64-bit Windows Server 2019 Standard operating system.
@@ -69,5 +70,4 @@ Training prepared data sets with YOLOv5, YOLOv8, YOLOv10
 * Connect the ZED camera and run `zedyolo_text.py` to realize real-time identification and positioning of the mouth, display 3D coordinates and depth distance.
 
 * `keshihua_conf_data.py` is used to verify the detection of ZED cameras under different thresholds.
----
-> This code is from the "High-Accuracy Real-Time Mouth Recognition and 3D Positioning for Autonomous Feeding Robots Using YOLO and Binocular Vision" paper and is currently being submitted to The Visual computer journal
+
