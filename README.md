@@ -70,4 +70,4 @@ Training prepared data sets with YOLOv5, YOLOv8, YOLOv10
 
 * `keshihua_conf_data.py` is used to verify the detection of ZED cameras under different thresholds.
 ---
-> 
+> This code is from the "High-Accuracy Real-Time Mouth Recognition and 3D Positioning for Autonomous Feeding Robots Using YOLO and Binocular Vision" paper and is currently being submitted to The Visual computer journal
